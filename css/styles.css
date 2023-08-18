@@ -84,6 +84,9 @@ body {
 .order-section {
   background-color: #2e2f42;
 }
+.description {
+  background-color: #ffffff;
+}
 .description-name {
   color: #2e2f42;
   font-weight: 500;
