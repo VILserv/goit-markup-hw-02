@@ -37,7 +37,7 @@ body {
   text-transform: uppercase;
 }
 .logo-text-h {
-  color: #2E2F42;
+  color: #2e2f42;
 }
 
 .menu-link {
@@ -55,6 +55,10 @@ body {
 }
 .logotype:hover,
 .logotype:focus {
+  color: #404bbf;
+}
+.menu-link:hover,
+.menu-link:focus {
   color: #404bbf;
 }
 .menu-adress {
@@ -116,7 +120,7 @@ body {
   letter-spacing: 0.02em;
 }
 .team-list {
-  background-color:#FFFFFF;
+  background-color: #ffffff;
 }
 .our-team {
   background-color: #f4f4fd;
@@ -135,7 +139,7 @@ body {
   background-color: #ffffff;
 }
 .project-card-name {
-  color:  #2e2f42;
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -164,10 +168,10 @@ body {
   text-transform: uppercase;
 }
 .logo-text {
-  color: #F4F4FD;
+  color: #f4f4fd;
 }
 .footer-text {
-  color:  #F4F4FD;
+  color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
